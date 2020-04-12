@@ -1,0 +1,116 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+title = "クリスチャン向けコロナ対策サイト"
+theme = "dot"
+DefaultContentLanguage = "jp"
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe= true
+
+################################# navigation ################################
+[[menu.main]]
+name = "当サイトについて"
+url = "about"
+weight = 1
+
+[[menu.main]]
+name = "お問い合わせ"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSdy6JTTh-pv4BSkcB2cJX48i9rBzL5pq1_kNRg1pkt7pfJN5A/viewform"
+weight = 2
+
+[[menu.main]]
+name = "プライバシーポリシー"
+url = "privacy-policy"
+weight = 3
+
+# Dropdown menu
+[[menu.main]]
+weight = 4
+name = "infos"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "infos"
+  name = "オンライン礼拝について"
+  url = "online-worship"
+  weight = 1
+
+  [[menu.main]]
+  parent = "infos"
+  name = "オンライン献金について"
+  url = "online-giving"
+  weight = 2
+
+  [[menu.main]]
+  parent = "infos"
+  name = "自宅での賛美について"
+  url = "glorify"
+  weight = 3
+
+  ############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = ""
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = ""
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#008830"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "Noto Sans JP" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+
+
+############################## social links ##############################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+  
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+  
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+################################ Japanese Language ######################
+[Languages.jp]
+languageName = "Jp"
+languageCode = "jp-jn"
+weight = 1
+home = "ホーム"
+copyright = " © 2020コロナウイルスクリスチャン向け対策サイト POWERED BY [CALM](https://gethugothemes.com/) 2020."
+
+# banner
+[Languages.jp.params.banner]
+title = "クリスチャン向けコロナ対策サイト"
+subtitle = "クリスチャンの皆さんの助けになればと思い、有志で立ち上げたサイトです。"
+bg_image = "images/photo-1528825539566-2bcb5882445c.jpeg"
+placeholder = "入力キーワードに関係のあるトピックをお出しします"
+
+# call to action
+[Languages.jp.params.cta]
+enable = true
+title = "修正点や疑問点がある方はこちらから連絡ください。"
+# call to action button
+[Languages.jp.params.cta.button]
+enable = true
+label = "contact us"
+link = "https://docs.google.com/forms/d/e/1FAIpQLSdy6JTTh-pv4BSkcB2cJX48i9rBzL5pq1_kNRg1pkt7pfJN5A/viewform"
+
+
