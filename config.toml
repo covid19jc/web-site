@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://frosty-nobel-af5bcc.netlify.com/"
 languageCode = "ja-jp"
 title = "クリスチャン向けコロナ対策サイト"
 theme = "dot"
