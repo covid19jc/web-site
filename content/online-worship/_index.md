@@ -1,9 +1,9 @@
 ---
-title: "オンライン礼拝の始め方"
-date: 2018-12-28T11:02:05+06:00
-icon: "ti-rss-alt"
-description: "オンライン礼拝の始めたい方向け"
-type : "docs"
+title: オンライン礼拝の始め方
+date: 2018-12-28T05:02:05.000Z
+icon: ti-rss-alt
+description: オンライン礼拝の始めたい方向け
+type: docs
 ---
 
 オンライン礼拝の始め方に関して説明します。  
@@ -32,8 +32,9 @@ YouTubeでもFacebookでも、ZOOMでも配信するためにはアカウント�
 
 それぞれのアカウント作成は下記を参照ください。
 
-- [Facebook](https://www.facebook.com/help/188157731232424?helpref=topq)
+
 - [YouTube Live](https://support.google.com/youtube/answer/161805?co=GENIE.Platform%3DDesktop&hl=ja)
+- [Facebook](https://www.facebook.com/help/188157731232424?helpref=topq)
 - [ZOOM](https://zoom.us)
 
 #### 注意事項
