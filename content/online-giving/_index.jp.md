@@ -1,21 +1,23 @@
 ---
 title: "オンライン献金について"
-date: 2018-12-28T11:02:05+06:00
+date: 2020-04-21T11:02:05+96:00
 icon: "ti-credit-card"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
+description: "オンライン献金を導入したい方向け"
 type : "docs"
 ---
 
-Many businesses employ full-time pricing analysts or hire an analyst as a consultant for a particular project or concern.
+教会に集まれない日々が続くということは，教会を立てあげる献金について考えなければなりません．  
+これは非常に大きな課題です．  
 
-Pricing analysts look at industry standards, playing close attention to the pricing strategies of their competitors.
+オンラインでの献金について情報をまとめましたので，参考にしてください．  
 
-They use mathematical analysis to track pricing trends in the marketplace using industry databases, catalogues and other industry sources. They study consumer habits to determine how much people are willing to pay for various products, and to look for patterns in consumer spending.
+## 概要  
+基本的には資金移動業の登録を受けた企業の提供するサービスを利用することになるのですが，日本において**教会での献金が想定されたサービスはほとんどありません**．  
+そのため，利用できるサービスはかなり限られてきます．  
 
-They are also interested in the cost of production of various items, the amount of profit a company wants to make, and associated costs like marketing.
+現在把握できている範囲で献金に利用できるオンライン決済プラットフォームは海外のサービスで，資料が英語しかないため導入にはハードルが高いかも知れません．  
 
-They may be involved with the packaging and presentation of products, which can influence how much people are willing to pay, and they provide advice during the research and development phase to help create the most income for the company.
+最も現実的な手段は，オンラインバンキングを用いて教会の銀行口座に直接振り込んでもらうことでしょう．  
 
-They work with a variety of departments, including sales, product management, marketing and accounting, to ensure that their methods comply with company strategy and maximise profitability.
-
-Other duties that are included under a pricing analyst's job title include maintaining price lists, contributing content for sales proposals, reviewing price quotes, generating pricing reports on sales revenue and preparing revenue forecasts and budgets for project managers.
+### オンライン以外の方法  
+教会に鍵付きの献金箱を設置して，来れる方は毎週でなくても教会に来て捧げていただくなどの方法も可能なら取り入れて良いでしょう．  
