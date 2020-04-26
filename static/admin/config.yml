@@ -9,7 +9,7 @@ public_folder: "/images/uploads"
 
 collections:
   - name: "online-worship" # Used in routes, e.g., /admin/collections/blog
-    label: "オンライン礼拝の始め方に関する記事" # Used in the UI
+    label: "オンライン礼拝" # Used in the UI
     folder: "content/online-worship" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}_{{title}}" # Filename template, e.g., YYYY-MM-DD-title.md
