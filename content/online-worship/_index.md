@@ -1,6 +1,6 @@
 ---
 title: オンライン礼拝の始め方
-date: 2018-12-28T05:02:05.000Z
+date: 2020-05-01T05:02:05.000Z
 icon: ti-rss-alt
 description: オンライン礼拝の始めたい方向け
 type: docs

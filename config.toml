@@ -3,6 +3,10 @@ languageCode = "ja-jp"
 title = "クリスチャン向けコロナ対策サイト"
 theme = "dot"
 DefaultContentLanguage = "jp"
+googleAnalytics = "UA-165299255-1"
+
+[blackfriday]
+hrefTargetBlank = true
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -72,21 +76,17 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 
 
 ############################## social links ##############################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-  
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/covid19jc/web"
 
 ################################ Japanese Language ######################
 [Languages.jp]
