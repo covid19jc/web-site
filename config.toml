@@ -3,7 +3,7 @@ languageCode = "ja-jp"
 title = "クリスチャン向けコロナ対策サイト"
 theme = "dot"
 DefaultContentLanguage = "jp"
-googleAnalytics = "UA-165299255-1"
+googleAnalytics = "UA-162431931-1"
 
 [blackfriday]
 hrefTargetBlank = true
