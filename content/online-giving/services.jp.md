@@ -49,11 +49,6 @@ weight: 2
 - [利用規約](https://pay.jp/legal/tos)第14条禁止事項の3に「本APIを送金目的で使用する行為」との記載がある  
 
 ## 【調査中】オンライン献金利用の可能性があるサービス  
-### BASE
-- 物販サイト  
-
-### PayID  
-- 物販サイト  
 
 ### [Stripe](https://stripe.com/jp)  
 - [禁止業種](https://stripe.com/jp/restricted-businesses)に，宗教法人は含まれていない
